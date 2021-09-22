@@ -22,26 +22,6 @@
 <br>
 <br>
 
-## Table of Contents
-- [Footprinting and Reconnaissance](#Footprinting-Reconnaissance)
-- [Scanning Networks](#Scanning-Networks)
-- [Enumeration](#Enumeration)
-- [System Hacking](#System-Hacking)
-- [Malware Threats](#Malware-Threats)
-- [Sniffing](#Sniffing)
-- [Social Engineering](#Social-Engineering)
-- [Denial Of Service](#Denial-Of-Service)
-- [Session Hijacking](#Session-Hijacking)
-- [Evading IDS, Firewalls and Honeypots](#Evading-IDS)
-- [Hacking Web Servers](#Hacking-Web-Servers)
-- [Hacking Web Applications](#Hacking-Web-Applications)
-- [SQL Injection](#SQL-Injection)
-- [Hacking Wireless Networks](#Hacking-Wireless-Networks)
-- [Hacking Mobile Platforms](#Hacking-Mobile-Platforms)
-- [IoT Hacking](#IoT-Hacking)
-- [Cloud Computing](#Cloud-Computing)
-- [Cryptography](#Cryptography)
-
 ### Footprinting and Reconnaissance
 1. [**Autopsy**](https://www.autopsy.com)
 Led by Brian Carrier, whose team builds easy-to-use tools for cyber first responders to intrusions, crime scenes, and war zones. Our team also develops Cyber Triage, fast and affordable incident response software any organization can use to rapidly investigate compromised endpoints.
